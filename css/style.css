@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+textarea{
+    width: 800px;
+    height: 600px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    resize: none;
+    outline: none;
+}
+
+h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+h3{
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #555;
+}
